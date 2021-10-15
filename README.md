@@ -8,5 +8,3 @@
 - Software:
   - Tableau 2021.1
   - Excel Power Query for Data cleansing and transforming
-
-[embed]https://github.com/Helena-ys/Meat-Consumption/blob/master/Meat%20Consumption.pdf[/embed]
