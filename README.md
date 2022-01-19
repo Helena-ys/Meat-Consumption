@@ -8,3 +8,5 @@
 - Software:
   - Tableau 2021.1
   - Excel Power Query for Data cleansing and transforming
+
+***[:bar_chart: See Project in Tableau Public](https://public.tableau.com/app/profile/helena.choi/viz/ChangesintheConsumptionProductionofMeat/Story1)***
